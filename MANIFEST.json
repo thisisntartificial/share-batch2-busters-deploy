@@ -1,0 +1,810 @@
+{
+  "batch": "bustersflooring-share-batch2",
+  "generated_at": "2026-11-16T01:14:14.451969+00:00",
+  "count": 100,
+  "agent": "windows-work / grok",
+  "scan_source": "2026-11-15 12:50 UTC batch2 of 7",
+  "note": "SEO-named WebP 1200x630 + JPG twins. Deploy under frontend/build/img/share and frontend/public/img/share. Wire og:image/twitter:image to local paths, then re-scan share-audit for history.",
+  "entries": [
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-adventuro-journey.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-adventuro-journey.jpg",
+      "page": "https://bustersflooring.com/products/daltile-adventuro-journey",
+      "title": "Adventuro Journey | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-adventuro-mariner.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-adventuro-mariner.jpg",
+      "page": "https://bustersflooring.com/products/daltile-adventuro-mariner",
+      "title": "Adventuro Mariner | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-adventuro-traveler.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-adventuro-traveler.jpg",
+      "page": "https://bustersflooring.com/products/daltile-adventuro-traveler",
+      "title": "Adventuro Traveler | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-adventuro-trekker.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-adventuro-trekker.jpg",
+      "page": "https://bustersflooring.com/products/daltile-adventuro-trekker",
+      "title": "Adventuro Trekker | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-adventuro-voyage.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-adventuro-voyage.jpg",
+      "page": "https://bustersflooring.com/products/daltile-adventuro-voyage",
+      "title": "Adventuro Voyage | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-adventuro-wander.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-adventuro-wander.jpg",
+      "page": "https://bustersflooring.com/products/daltile-adventuro-wander",
+      "title": "Adventuro Wander | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-adventuro-wilde.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-adventuro-wilde.jpg",
+      "page": "https://bustersflooring.com/products/daltile-adventuro-wilde",
+      "title": "Adventuro Wilde | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-cohesion-beige.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-cohesion-beige.jpg",
+      "page": "https://bustersflooring.com/products/daltile-cohesion-beige",
+      "title": "Cohesion Beige | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-cohesion-black.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-cohesion-black.jpg",
+      "page": "https://bustersflooring.com/products/daltile-cohesion-black",
+      "title": "Cohesion Black | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-cohesion-dark-grey.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-cohesion-dark-grey.jpg",
+      "page": "https://bustersflooring.com/products/daltile-cohesion-dark-grey",
+      "title": "Cohesion Dark Grey | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-cohesion-grey.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-cohesion-grey.jpg",
+      "page": "https://bustersflooring.com/products/daltile-cohesion-grey",
+      "title": "Cohesion Grey | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-cohesion-light-grey.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-cohesion-light-grey.jpg",
+      "page": "https://bustersflooring.com/products/daltile-cohesion-light-grey",
+      "title": "Cohesion Light Grey | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-cohesion-taupe.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-cohesion-taupe.jpg",
+      "page": "https://bustersflooring.com/products/daltile-cohesion-taupe",
+      "title": "Cohesion Taupe | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-cohesion-white.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-cohesion-white.jpg",
+      "page": "https://bustersflooring.com/products/daltile-cohesion-white",
+      "title": "Cohesion White | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-almond.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-almond.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-almond",
+      "title": "Color Wheel Classic Almond | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-architectural-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-architectural-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-architectural-gray",
+      "title": "Color Wheel Classic Architectural Gray | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-arctic-white.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-arctic-white.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-arctic-white",
+      "title": "Color Wheel Classic Arctic White | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-artisan-brown.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-artisan-brown.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-artisan-brown",
+      "title": "Color Wheel Classic Artisan Brown | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-biscuit.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-biscuit.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-biscuit",
+      "title": "Color Wheel Classic Biscuit | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-black.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-black.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-black",
+      "title": "Color Wheel Classic Black | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-chalkboard.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-chalkboard.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-chalkboard",
+      "title": "Color Wheel Classic Chalkboard | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-cobalt.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-cobalt.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-cobalt",
+      "title": "Color Wheel Classic Cobalt | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-cornsilk.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-cornsilk.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-cornsilk",
+      "title": "Color Wheel Classic Cornsilk | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-currant.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-currant.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-currant",
+      "title": "Color Wheel Classic Currant | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-desert-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-desert-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-desert-gray",
+      "title": "Color Wheel Classic Desert Gray | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-electric-blue.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-electric-blue.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-electric-blue",
+      "title": "Color Wheel Classic Electric Blue | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-elemental-tan.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-elemental-tan.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-elemental-tan",
+      "title": "Color Wheel Classic Elemental Tan | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-emerald.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-emerald.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-emerald",
+      "title": "Color Wheel Classic Emerald | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-galaxy.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-galaxy.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-galaxy",
+      "title": "Color Wheel Classic Galaxy | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-garden-spot.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-garden-spot.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-garden-spot",
+      "title": "Color Wheel Classic Garden Spot | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-key-lime.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-key-lime.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-key-lime",
+      "title": "Color Wheel Classic Key Lime | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-almond.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-almond.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-almond",
+      "title": "Color Wheel Classic Matte Almond | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-black-v2.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-black-v2.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-black-v2",
+      "title": "daltile-color-wheel-classic-matte-black-v2",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-black.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-black.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-black",
+      "title": "Color Wheel Classic Matte Black | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-butter.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-butter.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-butter",
+      "title": "daltile-color-wheel-classic-matte-butter",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-cobalt.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-cobalt.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-cobalt",
+      "title": "daltile-color-wheel-classic-matte-cobalt",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-desert-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-desert-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-desert-gray",
+      "title": "Color Wheel Classic Matte Desert Gray | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-emerald.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-emerald.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-emerald",
+      "title": "daltile-color-wheel-classic-matte-emerald",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-gray",
+      "title": "daltile-color-wheel-classic-matte-gray",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-navy.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-navy.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-navy",
+      "title": "daltile-color-wheel-classic-matte-navy",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-sky-blue.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-sky-blue.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-sky-blue",
+      "title": "daltile-color-wheel-classic-matte-sky-blue",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-white.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-matte-white.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-matte-white",
+      "title": "daltile-color-wheel-classic-matte-white",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-mustard.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-mustard.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-mustard",
+      "title": "Color Wheel Classic Mustard | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-navy.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-navy.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-navy",
+      "title": "Color Wheel Classic Navy | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-ocean-blue.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-ocean-blue.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-ocean-blue",
+      "title": "Color Wheel Classic Ocean Blue | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-orange-burst.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-orange-burst.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-orange-burst",
+      "title": "Color Wheel Classic Orange Burst | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-plum-crazy.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-plum-crazy.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-plum-crazy",
+      "title": "Color Wheel Classic Plum Crazy | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-sea-breeze.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-sea-breeze.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-sea-breeze",
+      "title": "Color Wheel Classic Sea Breeze | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-spa.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-spa.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-spa",
+      "title": "Color Wheel Classic Spa | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-suede-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-suede-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-suede-gray",
+      "title": "Color Wheel Classic Suede Gray | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-sunflower.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-sunflower.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-sunflower",
+      "title": "Color Wheel Classic Sunflower | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-white.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-color-wheel-classic-white.jpg",
+      "page": "https://bustersflooring.com/products/daltile-color-wheel-classic-white",
+      "title": "Color Wheel Classic White | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-indoterra-brick.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-indoterra-brick.jpg",
+      "page": "https://bustersflooring.com/products/daltile-indoterra-brick",
+      "title": "Indoterra Brick | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-indoterra-charcoal.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-indoterra-charcoal.jpg",
+      "page": "https://bustersflooring.com/products/daltile-indoterra-charcoal",
+      "title": "daltile-indoterra-charcoal",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-indoterra-cream.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-indoterra-cream.jpg",
+      "page": "https://bustersflooring.com/products/daltile-indoterra-cream",
+      "title": "daltile-indoterra-cream",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-indoterra-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-indoterra-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-indoterra-gray",
+      "title": "daltile-indoterra-gray",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-indoterra-natural.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-indoterra-natural.jpg",
+      "page": "https://bustersflooring.com/products/daltile-indoterra-natural",
+      "title": "Indoterra Natural | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-indoterra-sand.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-indoterra-sand.jpg",
+      "page": "https://bustersflooring.com/products/daltile-indoterra-sand",
+      "title": "daltile-indoterra-sand",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-indoterra-smoke.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-indoterra-smoke.jpg",
+      "page": "https://bustersflooring.com/products/daltile-indoterra-smoke",
+      "title": "daltile-indoterra-smoke",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-indoterra-taupe.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-indoterra-taupe.jpg",
+      "page": "https://bustersflooring.com/products/daltile-indoterra-taupe",
+      "title": "daltile-indoterra-taupe",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-limestone-beige.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-limestone-beige.jpg",
+      "page": "https://bustersflooring.com/products/daltile-limestone-beige",
+      "title": "daltile-limestone-beige",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-limestone-charcoal.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-limestone-charcoal.jpg",
+      "page": "https://bustersflooring.com/products/daltile-limestone-charcoal",
+      "title": "daltile-limestone-charcoal",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-limestone-cream.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-limestone-cream.jpg",
+      "page": "https://bustersflooring.com/products/daltile-limestone-cream",
+      "title": "daltile-limestone-cream",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-limestone-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-limestone-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-limestone-gray",
+      "title": "daltile-limestone-gray",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-limestone-ivory.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-limestone-ivory.jpg",
+      "page": "https://bustersflooring.com/products/daltile-limestone-ivory",
+      "title": "daltile-limestone-ivory",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-limestone-taupe.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-limestone-taupe.jpg",
+      "page": "https://bustersflooring.com/products/daltile-limestone-taupe",
+      "title": "daltile-limestone-taupe",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-marble-attache-beige.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-marble-attache-beige.jpg",
+      "page": "https://bustersflooring.com/products/daltile-marble-attache-beige",
+      "title": "daltile-marble-attache-beige",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-marble-attache-black.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-marble-attache-black.jpg",
+      "page": "https://bustersflooring.com/products/daltile-marble-attache-black",
+      "title": "daltile-marble-attache-black",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-marble-attache-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-marble-attache-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-marble-attache-gray",
+      "title": "daltile-marble-attache-gray",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-marble-attache-white.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-marble-attache-white.jpg",
+      "page": "https://bustersflooring.com/products/daltile-marble-attache-white",
+      "title": "daltile-marble-attache-white",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-miramo-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-miramo-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-miramo-gray",
+      "title": "daltile-miramo-gray",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-miramo-ivory.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-miramo-ivory.jpg",
+      "page": "https://bustersflooring.com/products/daltile-miramo-ivory",
+      "title": "daltile-miramo-ivory",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-miramo-natural.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-miramo-natural.jpg",
+      "page": "https://bustersflooring.com/products/daltile-miramo-natural",
+      "title": "daltile-miramo-natural",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-miramo-oak.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-miramo-oak.jpg",
+      "page": "https://bustersflooring.com/products/daltile-miramo-oak",
+      "title": "daltile-miramo-oak",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-miramo-walnut.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-miramo-walnut.jpg",
+      "page": "https://bustersflooring.com/products/daltile-miramo-walnut",
+      "title": "daltile-miramo-walnut",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-mythology-apollo.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-mythology-apollo.jpg",
+      "page": "https://bustersflooring.com/products/daltile-mythology-apollo",
+      "title": "daltile-mythology-apollo",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-mythology-artemis.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-mythology-artemis.jpg",
+      "page": "https://bustersflooring.com/products/daltile-mythology-artemis",
+      "title": "daltile-mythology-artemis",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-mythology-athena.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-mythology-athena.jpg",
+      "page": "https://bustersflooring.com/products/daltile-mythology-athena",
+      "title": "daltile-mythology-athena",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-mythology-hera.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-mythology-hera.jpg",
+      "page": "https://bustersflooring.com/products/daltile-mythology-hera",
+      "title": "daltile-mythology-hera",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-mythology-poseidon.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-mythology-poseidon.jpg",
+      "page": "https://bustersflooring.com/products/daltile-mythology-poseidon",
+      "title": "daltile-mythology-poseidon",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-mythology-zeus.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-mythology-zeus.jpg",
+      "page": "https://bustersflooring.com/products/daltile-mythology-zeus",
+      "title": "daltile-mythology-zeus",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-outlander-canyon.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-outlander-canyon.jpg",
+      "page": "https://bustersflooring.com/products/daltile-outlander-canyon",
+      "title": "daltile-outlander-canyon",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-outlander-mesa.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-outlander-mesa.jpg",
+      "page": "https://bustersflooring.com/products/daltile-outlander-mesa",
+      "title": "daltile-outlander-mesa",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-outlander-peak.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-outlander-peak.jpg",
+      "page": "https://bustersflooring.com/products/daltile-outlander-peak",
+      "title": "daltile-outlander-peak",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-outlander-ridge.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-outlander-ridge.jpg",
+      "page": "https://bustersflooring.com/products/daltile-outlander-ridge",
+      "title": "daltile-outlander-ridge",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-outlander-summit.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-outlander-summit.jpg",
+      "page": "https://bustersflooring.com/products/daltile-outlander-summit",
+      "title": "daltile-outlander-summit",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-outlander-trail.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-outlander-trail.jpg",
+      "page": "https://bustersflooring.com/products/daltile-outlander-trail",
+      "title": "daltile-outlander-trail",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-outlander-valley.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-outlander-valley.jpg",
+      "page": "https://bustersflooring.com/products/daltile-outlander-valley",
+      "title": "daltile-outlander-valley",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-pebble-oasis-black.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-pebble-oasis-black.jpg",
+      "page": "https://bustersflooring.com/products/daltile-pebble-oasis-black",
+      "title": "daltile-pebble-oasis-black",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-pebble-oasis-gray.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-pebble-oasis-gray.jpg",
+      "page": "https://bustersflooring.com/products/daltile-pebble-oasis-gray",
+      "title": "daltile-pebble-oasis-gray",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-pebble-oasis-natural.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-pebble-oasis-natural.jpg",
+      "page": "https://bustersflooring.com/products/daltile-pebble-oasis-natural",
+      "title": "daltile-pebble-oasis-natural",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-pebble-oasis-tan.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-pebble-oasis-tan.jpg",
+      "page": "https://bustersflooring.com/products/daltile-pebble-oasis-tan",
+      "title": "daltile-pebble-oasis-tan",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-pebble-oasis-white.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-pebble-oasis-white.jpg",
+      "page": "https://bustersflooring.com/products/daltile-pebble-oasis-white",
+      "title": "daltile-pebble-oasis-white",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-perpetuo-arctic-white.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-perpetuo-arctic-white.jpg",
+      "page": "https://bustersflooring.com/products/daltile-perpetuo-arctic-white",
+      "title": "daltile-perpetuo-arctic-white",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-perpetuo-bridal.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-perpetuo-bridal.jpg",
+      "page": "https://bustersflooring.com/products/daltile-perpetuo-bridal",
+      "title": "Perpetuo Bridal | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-perpetuo-brilliant-white.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-perpetuo-brilliant-white.jpg",
+      "page": "https://bustersflooring.com/products/daltile-perpetuo-brilliant-white",
+      "title": "Perpetuo Brilliant White | Daltile | Buster's Flooring",
+      "in_current_scan": true,
+      "scan_group": "fallback"
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-perpetuo-calacatta.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-perpetuo-calacatta.jpg",
+      "page": "https://bustersflooring.com/products/daltile-perpetuo-calacatta",
+      "title": "daltile-perpetuo-calacatta",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-perpetuo-carrara.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-perpetuo-carrara.jpg",
+      "page": "https://bustersflooring.com/products/daltile-perpetuo-carrara",
+      "title": "daltile-perpetuo-carrara",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-perpetuo-silver.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-perpetuo-silver.jpg",
+      "page": "https://bustersflooring.com/products/daltile-perpetuo-silver",
+      "title": "daltile-perpetuo-silver",
+      "in_current_scan": false,
+      "scan_group": null
+    },
+    {
+      "file_webp": "https://bustersflooring.com/img/share/daltile-perpetuo-statuario.webp",
+      "file_jpg": "https://bustersflooring.com/img/share/daltile-perpetuo-statuario.jpg",
+      "page": "https://bustersflooring.com/products/daltile-perpetuo-statuario",
+      "title": "daltile-perpetuo-statuario",
+      "in_current_scan": false,
+      "scan_group": null
+    }
+  ]
+}
